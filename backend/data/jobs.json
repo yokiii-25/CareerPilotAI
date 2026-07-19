@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "Google",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git"
+    ]
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Microsoft",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "SQL",
+      "Docker"
+    ]
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Amazon",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "AI Engineer",
+    "company": "OpenAI",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow"
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Accenture",
+    "skills": [
+      "Python",
+      "Excel",
+      "SQL",
+      "Power BI"
+    ]
+  }
+]
