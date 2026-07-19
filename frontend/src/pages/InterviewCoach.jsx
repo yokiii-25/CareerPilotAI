@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import api from "../services/api";
 import InterviewQuestionCard from "../components/InterviewQuestionCard";
 
-import "../styles/interviewCoach.css";
+import "../styles/interviewcoach.css";
 
 const EMPTY_RESULTS = {
   technical_questions: [],
